@@ -5,7 +5,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 Featured Projects
 
 ### 💇 Salon Management & Appointment System  
 Full-stack web application for managing salon operations and bookings.  
