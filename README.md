@@ -25,9 +25,7 @@ Full-stack web application for managing salon operations and bookings.
 **Tech Stack:** Node.js, Express.js, MySQL, JavaScript
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/View%20Repository-Temporarily_Unavailable-red?style=for-the-badge&logo=github"/>
 </p>
 
 </td>
