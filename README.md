@@ -74,6 +74,29 @@ Interactive 3D campus navigation system built using Three.js and graph-based pat
 </p>
 
 </td>
+
+
+<td width="50%">
+
+### ⚔️ Clash of Clans Frontend Clone
+
+A frontend recreation inspired by the Clash of Clans game interface, focused on responsive UI design and interactive user experience.
+
+- 🎮 Game-inspired user interface  
+- 📱 Responsive design  
+- ✨ Interactive animations and effects  
+- 🧩 Component-based frontend structure  
+- 🎨 Modern gaming-style UI/UX  
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+<p align="center">
+  <a href="https://github.com/sarang-wasamwar/Clash-of-Clane---Clone">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
 </tr>
 </table>
 
