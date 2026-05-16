@@ -13,12 +13,12 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 Full-stack web application for managing salon operations and bookings.
 
-- 🔐 JWT-based authentication & role management  
-- 📅 Appointment scheduling with conflict detection  
-- 💳 Razorpay integration + cash payments  
-- 🧾 PDF receipt generation  
-- 📊 Admin dashboard  
-- 📧 Email notification system  
+- JWT-based authentication & role management  
+- Appointment scheduling with conflict detection  
+- Razorpay integration + cash payments  
+- PDF receipt generation  
+- Admin dashboard  
+- Email notification system  
 
 **Tech Stack:** Node.js, Express.js, MySQL, JavaScript
 
