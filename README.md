@@ -3,7 +3,9 @@
 
 I design and develop efficient software systems with a focus on **problem-solving, scalability, and clean code**.
 
----## 🔥 Featured Projects
+---
+
+## 🔥 Featured Projects
 
 <table>
 <tr>
