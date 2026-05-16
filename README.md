@@ -3,49 +3,79 @@
 
 I design and develop efficient software systems with a focus on **problem-solving, scalability, and clean code**.
 
----
+---## 🔥 Featured Projects
 
-## 🔥 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-### 💇 Salon Management & Appointment System  
-Full-stack web application for managing salon operations and bookings.  
+### 💇 Salon Management & Appointment System
+
+Full-stack web application for managing salon operations and bookings.
 
 - 🔐 JWT-based authentication & role management  
-- 📅 Appointment scheduling with time-slot & conflict detection  
+- 📅 Appointment scheduling with conflict detection  
 - 💳 Razorpay integration + cash payments  
 - 🧾 PDF receipt generation  
-- 📊 Admin dashboard for managing services, staff & customers  
-- 📧 Email notifications & contact system  
+- 📊 Admin dashboard  
+- 📧 Email notification system  
 
-**Tech Stack:** Node.js, Express.js, MySQL, JavaScript   
+**Tech Stack:** Node.js, Express.js, MySQL, JavaScript
 
----
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-### 🧑‍💼 Employee Performance Evaluation System  
-A structured system to track and evaluate employee performance.  
+</td>
 
-- Employee & Manager Management  
-- Performance Reviews with Ratings  
-- Skill-based Evaluation System  
+<td width="50%">
+
+### 🧑‍💼 Employee Performance Evaluation System
+
+A structured system to track and evaluate employee performance.
+
+- Performance Reviews & Ratings  
 - Peer-to-Peer Feedback  
-- Project Assignment Tracking  
+- Skill-based Evaluation  
 - Training & Certification Tracking  
 - Bonus & Promotion Management  
-- Recognition System
 
-🔗 GitHub: https://github.com/sarang-wasamwar/Employee-Performance-Evaluation-System 
+**Tech Stack:** Node.js, Express.js, MySQL, JavaScript
 
----
+<p align="center">
+  <a href="https://github.com/sarang-wasamwar/Employee-Performance-Evaluation-System">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-### 🗺️ Campus Navigation System (Three.js)  
-A 3D interactive navigation system for our college Building No. 6, fully built using Three.js without external modeling tools.  
+</td>
+</tr>
 
-- Custom 3D model created programmatically (no Blender)  
-- Real-time visualization in the browser  
+<tr>
+<td width="50%">
+
+### 🗺️ Campus Navigation System
+
+Interactive 3D campus navigation system built using Three.js and graph-based pathfinding concepts.
+
+- Custom 3D building model  
 - Interactive navigation paths  
-- Camera controls for exploring the building  
+- Real-time browser visualization  
+- Camera controls for exploration  
 
----
+**Tech Stack:** Three.js, Node.js, SQLite, JavaScript
+
+<p align="center">
+  <a href="https://github.com/sarang-wasamwar/Campus-Navigation-System">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ## 🧠 Tech Stack  
 
