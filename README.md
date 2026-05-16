@@ -37,7 +37,7 @@ Full-stack web application for managing salon operations and bookings.
 A structured system to track and evaluate employee performance.
 
 - Performance Reviews & Ratings  
-- Peer-to-Peer Feedback  
+- Team Feedback 
 - Skill-based Evaluation  
 - Training & Certification Tracking  
 - Bonus & Promotion Management  
@@ -55,6 +55,8 @@ A structured system to track and evaluate employee performance.
 
 <tr>
 <td width="50%">
+
+---
 
 ### 🗺️ Campus Navigation System
 
