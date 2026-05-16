@@ -56,8 +56,6 @@ A structured system to track and evaluate employee performance.
 <tr>
 <td width="50%">
 
----
-
 ### 🗺️ Campus Navigation System
 
 Interactive 3D campus navigation system built using Three.js and graph-based pathfinding concepts.
@@ -78,6 +76,8 @@ Interactive 3D campus navigation system built using Three.js and graph-based pat
 </td>
 </tr>
 </table>
+
+---
 
 ## 🧠 Tech Stack  
 
