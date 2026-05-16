@@ -82,11 +82,11 @@ Interactive 3D campus navigation system built using Three.js and graph-based pat
 
 A frontend recreation inspired by the Clash of Clans game interface, focused on responsive UI design and interactive user experience.
 
-- 🎮 Game-inspired user interface  
-- 📱 Responsive design  
-- ✨ Interactive animations and effects  
-- 🧩 Component-based frontend structure  
-- 🎨 Modern gaming-style UI/UX  
+- Game-inspired user interface  
+- Responsive design  
+- Interactive animations and effects  
+- Component-based frontend structure  
+- Modern gaming-style UI/UX  
 
 **Tech Stack:** HTML, CSS, JavaScript
 
