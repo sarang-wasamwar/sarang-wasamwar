@@ -9,23 +9,24 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 💇 Salon Management & Appointment System
+### 🗺️ Campus Navigation System
 
-Full-stack web application for managing salon operations and bookings.
+Interactive 3D campus navigation system built using Three.js and graph-based pathfinding concepts.
 
-- JWT-based authentication & role management  
-- Appointment scheduling with conflict detection  
-- Razorpay integration + cash payments  
-- PDF receipt generation  
-- Admin dashboard  
-- Email notification system  
+- Custom 3D building model  
+- Interactive navigation paths  
+- Real-time browser visualization  
+- Camera controls for exploration  
 
-**Tech Stack:** Node.js, Express.js, MySQL, JavaScript
+**Tech Stack:** Three.js, Node.js, SQLite, JavaScript
 
 <p align="center">
-  <img src="https://img.shields.io/badge/View%20Repository-Temporarily_Unavailable-red?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/sarang-wasamwar/Campus-Navigation-System">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </td>
@@ -54,27 +55,26 @@ A structured system to track and evaluate employee performance.
 </tr>
 
 <tr>
-<td width="50%">
+  <td width="50%">
 
-### 🗺️ Campus Navigation System
+### 💇 Salon Management & Appointment System
 
-Interactive 3D campus navigation system built using Three.js and graph-based pathfinding concepts.
+Full-stack web application for managing salon operations and bookings.
 
-- Custom 3D building model  
-- Interactive navigation paths  
-- Real-time browser visualization  
-- Camera controls for exploration  
+- JWT-based authentication & role management  
+- Appointment scheduling with conflict detection  
+- Razorpay integration + cash payments  
+- PDF receipt generation  
+- Admin dashboard  
+- Email notification system  
 
-**Tech Stack:** Three.js, Node.js, SQLite, JavaScript
+**Tech Stack:** Node.js, Express.js, MySQL, JavaScript
 
 <p align="center">
-  <a href="https://github.com/sarang-wasamwar/Campus-Navigation-System">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/View%20Repository-Temporarily_Unavailable-red?style=for-the-badge&logo=github"/>
 </p>
 
 </td>
-
 
 <td width="50%">
 
