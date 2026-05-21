@@ -98,6 +98,29 @@ A frontend recreation inspired by the Clash of Clans game interface, focused on 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🎬 Movie Genre Analysis & Rating Prediction
+
+AI-powered movie analytics and prediction system that analyzes movie datasets and predicts ratings using Machine Learning.
+
+- Interactive movie analytics dashboard  
+- Genre, revenue & ROI analysis  
+- Random Forest rating prediction  
+- Data visualization with interactive charts  
+- Statistical analysis and EDA  
+
+**Tech Stack:** Python, Flask, Pandas, Scikit-learn, Plotly, R
+
+<p align="center">
+  <a href="https://github.com/sarang-wasamwar/Movie-Genre-Analysis">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
