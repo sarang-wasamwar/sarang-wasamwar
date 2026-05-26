@@ -160,10 +160,12 @@ Full-stack salon booking and appointment management web application.
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github"/>
+  <!-- <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github"/> -->
+  <img src="https://img.shields.io/badge/View%20Repository-Temporarily_Unavailable-red?style=for-the-badge&logo=github"/>
 </p>
 
 </td>
