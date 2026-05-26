@@ -193,6 +193,7 @@ Machine Learning project for movie analytics and rating prediction.
 
 </tr>
 </table>
+
 ---
 
 ## 🧠 Tech Stack  
