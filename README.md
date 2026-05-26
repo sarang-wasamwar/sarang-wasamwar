@@ -165,7 +165,7 @@ Full-stack salon booking and appointment management web application.
 
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github"/> -->
-  <img src="https://img.shields.io/badge/View%20Repository-Temporarily_Unavailable-red?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View%20Project-Temporarily_Unavailable-red?style=for-the-badge&logo=github"/>
 </p>
 
 </td>
