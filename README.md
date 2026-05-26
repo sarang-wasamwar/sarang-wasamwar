@@ -237,5 +237,7 @@ Machine Learning project for movie analytics and rating prediction.
 
 ## 📫 Let's Connect  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sarang-wasamwar-31b48532b 
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/sarang-wasamwar-31b48532b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
