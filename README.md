@@ -78,29 +78,6 @@ Full-stack web application for managing salon operations and bookings.
 
 <td width="50%">
 
-### ⚔️ Clash of Clans Frontend Clone
-
-A frontend recreation inspired by the Clash of Clans game interface, focused on responsive UI design and interactive user experience.
-
-- Game-inspired user interface  
-- Responsive design  
-- Interactive animations and effects  
-- Component-based frontend structure  
-- Modern gaming-style UI/UX  
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-<p align="center">
-  <a href="https://github.com/sarang-wasamwar/Clash-of-Clane---Clone">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🎬 Movie Genre Analysis & Rating Prediction
 
 AI-powered movie analytics and prediction system that analyzes movie datasets and predicts ratings using Machine Learning.
@@ -120,6 +97,7 @@ AI-powered movie analytics and prediction system that analyzes movie datasets an
 </p>
 
 </td>
+
 </tr>
 </table>
 
