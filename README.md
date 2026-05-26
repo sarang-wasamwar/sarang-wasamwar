@@ -102,6 +102,117 @@ AI-powered movie analytics and prediction system that analyzes movie datasets an
 </table>
 
 ---
+<table>
+<tr>
+
+<td width="50%">
+
+### 🗺️ Campus Navigation System
+
+Interactive 3D campus navigation platform with real-time pathfinding and browser visualization.
+
+<p>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+🧭 Graph Pathfinding  
+🏢 3D Campus Model  
+⚡ Real-time Navigation  
+🎮 Camera Controls  
+
+<p align="center">
+  <a href="https://github.com/sarang-wasamwar/Campus-Navigation-System">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🧑‍💼 Employee Performance Evaluation System
+
+Performance tracking and employee analytics platform for organizations.
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+📊 Performance Reviews  
+👥 Team Feedback  
+🎯 Skill Evaluation  
+🏆 Promotion Tracking  
+
+<p align="center">
+  <a href="https://github.com/sarang-wasamwar/Employee-Performance-Evaluation-System">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💇 Salon Management & Appointment System
+
+Full-stack salon booking and appointment management web application.
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+🔐 JWT Authentication  
+📅 Smart Booking System  
+💳 Razorpay Integration  
+📧 Email Notifications  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🎬 Movie Genre Analysis & Rating Prediction
+
+Machine Learning project for movie analytics and rating prediction.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly"/>
+</p>
+
+🤖 Random Forest ML  
+📈 Interactive Dashboard  
+🎭 Genre & ROI Analysis  
+📊 Data Visualization  
+
+<p align="center">
+  <a href="https://github.com/sarang-wasamwar/Movie-Genre-Analysis">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+---
 
 ## 🧠 Tech Stack  
 
