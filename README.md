@@ -6,7 +6,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 ---
 
 ## 🔥 Featured Projects
-
+<!--- 
 <table>
 <tr>
 
@@ -100,8 +100,7 @@ AI-powered movie analytics and prediction system that analyzes movie datasets an
 
 </tr>
 </table>
-
----
+--->
 <table>
 <tr>
 
@@ -117,11 +116,6 @@ Interactive 3D campus navigation platform with real-time pathfinding and browser
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
-
-🧭 Graph Pathfinding  
-🏢 3D Campus Model  
-⚡ Real-time Navigation  
-🎮 Camera Controls  
 
 <p align="center">
   <a href="https://github.com/sarang-wasamwar/Campus-Navigation-System">
@@ -143,11 +137,6 @@ Performance tracking and employee analytics platform for organizations.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
-
-📊 Performance Reviews  
-👥 Team Feedback  
-🎯 Skill Evaluation  
-🏆 Promotion Tracking  
 
 <p align="center">
   <a href="https://github.com/sarang-wasamwar/Employee-Performance-Evaluation-System">
@@ -173,11 +162,6 @@ Full-stack salon booking and appointment management web application.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-🔐 JWT Authentication  
-📅 Smart Booking System  
-💳 Razorpay Integration  
-📧 Email Notifications  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github"/>
 </p>
@@ -196,11 +180,6 @@ Machine Learning project for movie analytics and rating prediction.
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly"/>
 </p>
-
-🤖 Random Forest ML  
-📈 Interactive Dashboard  
-🎭 Genre & ROI Analysis  
-📊 Data Visualization  
 
 <p align="center">
   <a href="https://github.com/sarang-wasamwar/Movie-Genre-Analysis">
