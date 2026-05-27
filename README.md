@@ -162,7 +162,7 @@ Full-stack salon booking and appointment management web application.
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -170,8 +170,9 @@ Full-stack salon booking and appointment management web application.
 </p>
 
 <p align="center">
-  <!-- <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github"/> -->
-  <img src="https://img.shields.io/badge/View%20Project-Temporarily_Unavailable-red?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/sarang-wasamwar/Salon-Appointment-Management-System">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </td>
