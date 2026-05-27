@@ -177,12 +177,17 @@ Full-stack salon booking and appointment management web application.
 Machine Learning project for movie analytics and rating prediction.
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=rstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/ggplot2-EA4335?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=treehouse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Visualization-8E44AD?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-00ACC1?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle_Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
-
 <p align="center">
   <a href="https://github.com/sarang-wasamwar/Movie-Genre-Analysis">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
