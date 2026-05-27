@@ -111,8 +111,8 @@ AI-powered movie analytics and prediction system that analyzes movie datasets an
 Interactive 3D campus navigation platform with real-time pathfinding and browser visualization.
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
@@ -134,8 +134,8 @@ Interactive 3D campus navigation platform with real-time pathfinding and browser
 Performance tracking and employee analytics platform for organizations.
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -160,9 +160,9 @@ Performance tracking and employee analytics platform for organizations.
 Full-stack salon booking and appointment management web application.
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -183,16 +183,16 @@ Full-stack salon booking and appointment management web application.
 Machine Learning project for movie analytics and rating prediction.
 
 <p>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=rstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/ggplot2-EA4335?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=treehouse&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Visualization-8E44AD?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/EDA-00ACC1?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle_Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tidyverse-1A162D?style=flat-square&logo=rstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/dplyr-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/ggplot2-EA4335?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random_Forest-228B22?style=flat-square&logo=treehouse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Visualization-8E44AD?style=flat-square&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-00ACC1?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle_Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 </p>
 <p align="center">
   <a href="https://github.com/sarang-wasamwar/Movie-Genre-Analysis">
