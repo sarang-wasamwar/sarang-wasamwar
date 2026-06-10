@@ -29,7 +29,6 @@ I design and develop efficient software systems with a focus on **problem-solvin
 | **Developer Tools**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" class="tech-icon"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="filter: invert(1);" class="tech-icon" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" class="tech-icon"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48" height="48" class="tech-icon"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" class="tech-icon"/> |
 | **Other Tools**             | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/overleaf.svg" width="48" height="48" style="filter: invert(1);" class="tech-icon" /> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" class="tech-icon"/> |
 
-</div>
 <style>
 .tech-icon {
   width: 48px;
@@ -41,6 +40,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
   object-fit: contain;
 }
 </style>
+</div>
 
 <!---## 🧠 Tech Stack
 
