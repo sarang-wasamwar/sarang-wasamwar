@@ -63,8 +63,15 @@
 <tr>
 <td>Developer Tools</td>
 <td> <a href="" >
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,kaggle,overleaf" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio" />
   </a>
+</td>
+</tr>
+<tr>
+<td>Other Tools</td>
+<td>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/overleaf.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48"/>
 </td>
 </tr>
 </table>
