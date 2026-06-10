@@ -1,7 +1,19 @@
-## 👋 Hi, I'm Sarang Wasamwar  
+<!---## 👋 Hi, I'm Sarang Wasamwar  
 🚀 Full Stack Developer | Tech Explorer  
 
-I design and develop efficient software systems with a focus on **problem-solving, scalability, and clean code**.
+I design and develop efficient software systems with a focus on **problem-solving, scalability, and clean code**.--->
+
+<div align="center">
+
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarang%20Wasamwar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Full-Stack%20Dev%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn"/>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/aavishkarchaudhari">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+scalable+backend+systems;%F0%9F%8E%AF+DSA+%26+Competitive+Programming+enthusiast;%F0%9F%92%A1+Turning+ideas+into+real-world+products" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
