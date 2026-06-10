@@ -24,6 +24,48 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 ## 🛠️ Tech Stack & Tools
 
+<table align="center">
+<tr>
+<td>Programming Languages</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+  <img src="https://skillicons.dev/icons?i=c,c++java,js,python" />
+</a> 
+</td>
+</tr>
+
+<tr>
+<td>Frontend</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,react" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>Backend</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>Databases & Deployment</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,render,vercel" />
+   </a>
+</td>
+</tr>
+
+<tr>
+<td>Developer Tools</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio" />
+  </a>
+</td>
+</tr>
+</table>
+
 <div align="center">
 
 | Category | Technologies |
