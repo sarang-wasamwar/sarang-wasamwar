@@ -39,7 +39,7 @@
 <tr>
 <td>Frontend</td>
 <td> <a href="" >
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,threejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,react,threejs" />
   </a>
 </td>
 </tr>
@@ -51,9 +51,10 @@
 </td>
 </tr>
 <tr>
-<td>Databases</td>
+<td>Databases & Deployment</td>
 <td> <a href="" >
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="48"/>
    </a>
 </td>
 </tr>
@@ -62,13 +63,6 @@
 <td> <a href="" >
     <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,rstudio" />
   </a>
-</td>
-</tr>
-<tr>
-<td>Deployment</td>
-<td>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="48"/>
 </td>
 </tr>
 <tr>
