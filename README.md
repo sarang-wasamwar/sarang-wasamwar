@@ -60,7 +60,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <tr>
 <td>Developer Tools</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-    <img src="https://skillicons.dev/icons?i=git,github,vs,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio" />
   </a>
 </td>
 </tr>
