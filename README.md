@@ -28,7 +28,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <tr>
 <td>Programming Languages</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-  <img src="https://skillicons.dev/icons?i=c,c++,java,js,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
 </a> 
 </td>
 </tr>
@@ -36,7 +36,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <tr>
 <td>Frontend</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,threejs" />
   </a>
 </td>
 </tr>
@@ -52,7 +52,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <tr>
 <td>Databases & Deployment</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,render,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,render" />
    </a>
 </td>
 </tr>
@@ -60,7 +60,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <tr>
 <td>Developer Tools</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,vs,vscode,androidstudio" />
   </a>
 </td>
 </tr>
