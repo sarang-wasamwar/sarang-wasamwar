@@ -53,9 +53,11 @@
 <tr>
 <td>Databases & Deployment</td>
 <td> <a href="" >
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
    </a>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg"
+     width="48"
+     style="filter: brightness(0) invert(1);" />
 </td>
 </tr>
 <tr>
