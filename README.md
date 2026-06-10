@@ -39,7 +39,6 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 ---
 
-<!---
 ## 🧠 Tech Stack  
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -64,6 +63,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
+<!---
 ---
 
 ## 🤖 AI Tools & Platforms
