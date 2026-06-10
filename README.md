@@ -20,14 +20,54 @@ I design and develop efficient software systems with a focus on **problem-solvin
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
+## 🛠 Tech Stack & Tools
 
-| **Programming Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;filter:brightness(0) invert(1);"/> |
-| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;filter:invert(1);"/> |
-| **Databases & Deployment** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;filter:invert(1);"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;filter:invert(1);"/> |
-| **Developer Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;filter:invert(1);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> |
-| **Other Tools** | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/overleaf.svg" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;filter:invert(1);"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" style="padding:6px;border:1px solid #444;border-radius:10px;background:#0d1117;"/> |
+### Programming Languages
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48"/>
+</p>
 
+### Frontend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48"/>
+</p>
+
+### Backend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
+</p>
+
+### Databases & Deployment
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="48"/>
+</p>
+
+### Developer Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/>
+</p>
+
+### Other Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/overleaf.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48"/>
+</p>
 </div>
 
 <!---## 🧠 Tech Stack
