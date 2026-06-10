@@ -55,6 +55,7 @@
 <td> <a href="" >
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,render" />
    </a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="48"/>
 </td>
 </tr>
 <tr>
