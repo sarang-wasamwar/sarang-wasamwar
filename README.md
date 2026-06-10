@@ -19,9 +19,6 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 ## 🛠 Tech Stack & Tools
 
-<div align="center">
-## 🛠 Tech Stack & Tools
-
 ### Programming Languages
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
@@ -68,7 +65,6 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/overleaf.svg" width="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48"/>
 </p>
-</div>
 
 <!---## 🧠 Tech Stack
 
