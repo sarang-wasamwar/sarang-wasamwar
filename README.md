@@ -1,8 +1,3 @@
-<!---## 👋 Hi, I'm Sarang Wasamwar  
-🚀 Full Stack Developer | Tech Explorer  
-
-I design and develop efficient software systems with a focus on **problem-solving, scalability, and clean code**.--->
-
 <div align="center">
 
 <!-- Animated Banner -->
@@ -19,6 +14,15 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student  
+- 💻 Passionate about coding and problem-solving  
+- 🛠️ Preparing for SDE roles with strong DSA, CP, and Java Backend. 
+- 🚀 Interested in building real-world projects  
 
 ---
 
@@ -93,10 +97,15 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarang-wasamwar&label=Profile%20Views&color=F72585&style=flat-square" alt="Profile Views" />
 </p>
+</div>
 
 ---
 
 ## 📫 Connect With Me  
 
+<div align="center">
+
 | [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/sarang-wasamwar-31b48532b/) | [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:sarang.wasamwar24@pccoepune.org) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+</div>
