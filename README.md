@@ -54,6 +54,9 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <td> <a href="https://github.com/aavishkarchaudhari" >
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,render" />
    </a>
+  <a href="https://render.com">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</a>
 </td>
 </tr>
 
