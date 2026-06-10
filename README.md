@@ -10,7 +10,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/aavishkarchaudhari">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+scalable+backend+systems;%F0%9F%8E%AF+DSA+%26+Competitive+Programming+enthusiast;%F0%9F%92%A1+Turning+ideas+into+real-world+products" alt="Typing SVG" />
   </a>
 </p>
@@ -27,7 +27,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <table align="center">
 <tr>
 <td>Programming Languages</td>
-<td> <a href="https://github.com/aavishkarchaudhari" >
+<td> <a href="" >
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
 </a> 
 </td>
@@ -35,7 +35,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 <tr>
 <td>Frontend</td>
-<td> <a href="https://github.com/aavishkarchaudhari" >
+<td> <a href="" >
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,threejs" />
   </a>
 </td>
@@ -43,7 +43,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 <tr>
 <td>Backend</td>
-<td> <a href="https://github.com/aavishkarchaudhari" >
+<td> <a href="" >
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </td>
@@ -51,18 +51,15 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 <tr>
 <td>Databases & Deployment</td>
-<td> <a href="https://github.com/aavishkarchaudhari" >
+<td> <a href="" >
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,render" />
    </a>
-  <a href="https://render.com">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</a>
 </td>
 </tr>
 
 <tr>
 <td>Developer Tools</td>
-<td> <a href="https://github.com/aavishkarchaudhari" >
+<td> <a href="" >
     <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio" />
   </a>
 </td>
