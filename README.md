@@ -5,7 +5,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 | Category | Technologies |
 |:---|:---|
