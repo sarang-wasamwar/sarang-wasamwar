@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
    </a>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg"
-     height="46" width="46"
+     height="40" width="40"
      style="filter: brightness(0) invert(1);" />
 </td>
 </tr>
