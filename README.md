@@ -60,7 +60,7 @@
 <tr>
 <td>Developer Tools</td>
 <td> <a href="" >
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,rstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,Rstudio" />
   </a>
 </td>
 </tr>
