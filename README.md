@@ -28,7 +28,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <tr>
 <td>Programming Languages</td>
 <td> <a href="" >
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,kotlin,r" />
 </a> 
 </td>
 </tr>
