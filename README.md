@@ -4,6 +4,7 @@
 I design and develop efficient software systems with a focus on **problem-solving, scalability, and clean code**.
 
 ---
+<!---
 ## 🧠 Tech Stack
 
 | Category | Technologies |
@@ -14,8 +15,11 @@ I design and develop efficient software systems with a focus on **problem-solvin
 | **Databases & Deployment** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="48" height="48" style="filter: invert(1);" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="48" height="48" style="filter: invert(1);" /> |
 | **Developer Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="filter: invert(1);" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/> |
 | **Other Tools** | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/overleaf.svg" width="48" height="48" style="filter: invert(1);" /> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48"/> |
+--->
 
 ## 🛠 Tech Stack & Tools
+
+<div align="center">
 
 | Programming Languages       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48"/> |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -24,6 +28,8 @@ I design and develop efficient software systems with a focus on **problem-solvin
 | **Databases & Deployment**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="48" height="48" style="filter: invert(1);" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="48" height="48" style="filter: invert(1);" /> |
 | **Developer Tools**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="filter: invert(1);" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48"/> |
 | **Other Tools**             | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/overleaf.svg" width="48" height="48" style="filter: invert(1);" /> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48"/> |
+
+</div>
 
 <!---## 🧠 Tech Stack
 
