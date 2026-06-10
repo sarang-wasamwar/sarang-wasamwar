@@ -14,6 +14,11 @@ I design and develop efficient software systems with a focus on **problem-solvin
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+scalable+backend+systems;%F0%9F%8E%AF+DSA+%26+Competitive+Programming+enthusiast;%F0%9F%92%A1+Turning+ideas+into+real-world+products" alt="Typing SVG" />
   </a>
 </p>
+<br/>
+</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 ---
 
