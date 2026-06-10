@@ -73,6 +73,32 @@ I design and develop efficient software systems with a focus on **problem-solvin
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarangWasamwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="170" alt="stats graph"/> 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarangWasamwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"/>
+</div>
+
+---
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarangWasamwar&theme=radical&border_radius=1" alt="GitHub Streak" />
+</a>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarangWasamwar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarangWasamwar&label=Profile%20Views&color=F72585&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 ## 📫 Connect With Me  
 
 | [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/sarang-wasamwar-31b48532b/) | [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:sarang.wasamwar24@pccoepune.org) |
