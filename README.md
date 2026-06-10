@@ -28,7 +28,7 @@ I design and develop efficient software systems with a focus on **problem-solvin
 <tr>
 <td>Programming Languages</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-  <img src="https://skillicons.dev/icons?i=c,c++java,js,python" />
+  <img src="https://skillicons.dev/icons?i=c,c++,java,js,python" />
 </a> 
 </td>
 </tr>
