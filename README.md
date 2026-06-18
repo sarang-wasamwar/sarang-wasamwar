@@ -32,7 +32,7 @@
 <tr>
 <td>Programming Languages</td>
 <td> <a href="" >
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,kotlin,r" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r" />
 </a> 
 </td>
 </tr>
@@ -61,7 +61,7 @@
 <tr>
 <td>Developer Tools</td>
 <td> <a href="" >
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,rstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,rstudio" />
   </a>
 </td>
 </tr>
