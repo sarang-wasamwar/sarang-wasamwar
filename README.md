@@ -105,11 +105,11 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarang-wasamwar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
   
-<!---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarang-wasamwar&label=Profile%20Views&color=F72585&style=flat-square" alt="Profile Views" />
 </p>
---->
+
 
 </div>
 
