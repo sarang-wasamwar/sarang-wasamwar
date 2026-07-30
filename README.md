@@ -87,8 +87,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!--![Sarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarang-wasamwar&show_icons=true&theme=radical)-->[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sarang-wasamwar&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/sarang-wasamwar)
-
+  <!--![Sarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarang-wasamwar&show_icons=true&theme=radical)-->
+  <img src="https://github-stats-extended.vercel.app/api?username=sarang-wasamwar&show_icons=true&include_all_commits=true&theme=radical" height="170" alt="Git Stats" />
   
   ###
     
