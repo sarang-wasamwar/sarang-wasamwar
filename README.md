@@ -11,7 +11,6 @@ Currently working on full-stack development, and exploring AI/ML.
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SDL2](https://img.shields.io/badge/SDL2-%23FFFFFF.svg?style=for-the-badge&logo=SDL&logoColor=%23000000)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-%233C3C3C.svg?style=for-the-badge&logo=pygame&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
