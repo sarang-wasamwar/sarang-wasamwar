@@ -11,6 +11,7 @@ Currently working on full-stack development, and exploring AI/ML.
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-%233C3C3C.svg?style=for-the-badge&logo=pygame&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -47,6 +48,8 @@ Currently working on full-stack development, and exploring AI/ML.
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white)
 <!--![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)-->
