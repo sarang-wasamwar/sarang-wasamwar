@@ -56,8 +56,8 @@ Currently working on full-stack development, and exploring AI/ML.
 # 🚀 What I'm Up To:
 
 - 🌱 Learning **Cloud & DevOps**
-- 🧠 Exploring **AI/ML**
 - ☁️ Exploring **AWS**
+- 🧠 Exploring **Computer Graphics**
 - 💻 Building **Full-Stack Applications**
 - 💡 Practicing **DSA & Problem Solving**
 
