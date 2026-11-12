@@ -1,8 +1,8 @@
 # 👋 About Me:
 
-I’m Sarang, a CSE student at PCCOE, Pune.  
-I enjoy building software, solving problems, and exploring new technologies.
+### i hate engineering 🥲
 
+I’m Someone, who likes to enjoy building software, solving problems, and exploring new technologies.
 Currently working on full-stack development, and exploring AI/ML.
 
 ---
