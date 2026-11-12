@@ -2,7 +2,7 @@
 
 ### i hate engineering 🥲
 
-I’m Someone, who likes to enjoy building software, solving problems, and exploring new technologies.
+Im someone, who build software(still in learning phase thoo!!), solving problems(vo bhi sahi se nahi hora), and exploring new technologies(ghanta).
 Currently working on full-stack development, and exploring AI/ML.
 
 ---
